@@ -1,12 +1,13 @@
 # 子了导航 (Ziil Nav) 用户使用手册 v6.0
 
 欢迎使用子了导航 (Ziil Nav) —— 这是一款拥有 iOS 级极致美学、支持马卡龙流光配色的个性化书签管理工具。它不仅能帮您整理网络资源，还提供了待办、倒数日等实用小组件，助您打造高效、赏心悦目的浏览器主页。
+
 **子了导航：** https://ziil.cn/
 
 **子了导航官网介绍：** https://ziil.cn/product_intro.html
-<img width="2534" height="1316" alt="image" src="https://github.com/user-attachments/assets/2353a9ba-ce57-4082-9aef-0c471969bf77" />
 
 **子了导航用户手册：** https://ziil.cn/user_guide.html
+<img width="2534" height="1316" alt="image" src="https://github.com/user-attachments/assets/2353a9ba-ce57-4082-9aef-0c471969bf77" />
 
 ## 🚀 1. 快速开始：账号与同步
 子了导航采用免注册、基于密钥 (Key) 的同步机制。
